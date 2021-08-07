@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\ConsoleMath\ConsoleMath.csproj" />
+    <ProjectReference Include="..\..\src\ConsoleMath\ConsoleMath.csproj" />
   </ItemGroup>
 
 </Project>
